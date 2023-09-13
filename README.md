@@ -10,9 +10,9 @@ This C++ program solves the FizzBuzz problem. It prints numbers from 1 to 100, r
 
 ## License
 
-This project is licensed under the MIT License.
+This project is licensed under the GNU License.
 
 ## Author
 
-[Your Name](https://github.com/yourusername)
+John Balogune(https://github.com/johnbalogune)
 
